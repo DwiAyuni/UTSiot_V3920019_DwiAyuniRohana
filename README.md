@@ -1,1 +1,1 @@
-# UTSiot_V3920019_DwiAyuniRohana
+Disini saya menggunakan komponen smarthome berupa kipas,garasi,pintu,fire sprinkle,dan fire detector. Yang cara kerjanya adalah apabila terdeteksi adanya api (fire) maka kipas angin akan mati,pintu terbuka,garasi terbuka dan fire sprinkle juga akan menyemburkan air. Untuk username dan password yang dibuat disini yakni “dwiayuni” dan untuk security nya menggunakan wireless security WPA2 Enterprises. 
